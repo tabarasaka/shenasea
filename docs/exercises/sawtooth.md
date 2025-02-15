@@ -8,7 +8,9 @@ In this exercise, you'll learn how to create a sound using sine waves. You'll be
 ### Visualizing the Waves
 Here’s an example of what sine and sawtooth waves look like:
 
-![Sine Wave and Sawtooth Wave](sine_sawtooth.png)
+![Sine Wave](sine_sawtooth.png)
+*Figure 1: A sine wave over three periods.*
+
 
 ---
 
