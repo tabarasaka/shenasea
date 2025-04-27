@@ -56,6 +56,7 @@ nav:
     - exercises/beat-frequency.md
     - exercises/ocean-waves.md
     - exercises/sawtooth.md
+  - Corpus: placeholder.md
 
 
 extra_javascript:
