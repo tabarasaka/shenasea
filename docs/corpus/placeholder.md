@@ -1,9 +1,3 @@
----
-title: "Speech Sound Archive"
-layout: default
-permalink: /speech-sounds/  # Custom URL
----
-
 # Speech Sound Archive
 
 A collection of annotated speech recordings with phonetic transcriptions and linguistic glosses. Click the play button (▶) to listen.
