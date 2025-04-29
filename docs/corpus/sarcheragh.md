@@ -3,6 +3,6 @@
 Here’s a Persian bird sound:
 
 
-**Relative**
-
-![Music](pazoki.wav)
+<audio controls="controls">
+  <source type="audio/wav" src="pazoki.wav"></source>
+</audio>
