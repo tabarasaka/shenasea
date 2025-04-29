@@ -1,7 +1,8 @@
----
-title: Queen
----
+# My Audio Demo
 
-# Is this the world we created?
+Here’s a Persian bird sound:
 
-what did we do it for?
+<audio controls>
+  <source src="assets/bird-sound.mp3" type="audio/mpeg">
+  Your browser does not support audio.
+</audio>
