@@ -57,7 +57,7 @@ nav:
     - exercises/ocean-waves.md
     - exercises/sawtooth.md
   - Corpus:
-    - placeholder.md
+    - corpus/placeholder.md
 
 
 extra_javascript:
