@@ -16,16 +16,16 @@
   </tr>
   <tr>
     <td>
-      <img src="/assets/images/sine_wave.png" alt="Sine Wave" />
+      <img src="sine_wave.png" alt="Sine Wave" />
     </td>
     <td>
-      <img src="/assets/images/complex_periodic.png" alt="Complex Periodic Wave" />
+      <img src="complex_periodic.png" alt="Complex Periodic Wave" />
     </td>
     <td>
-      <img src="/assets/images/white_noise.png" alt="White Noise" />
+      <img src="white_noise.png" alt="White Noise" />
     </td>
     <td>
-      <img src="/assets/images/impulse_noise.png" alt="Impulse Noise" />
+      <img src="impulse_noise.png" alt="Impulse Noise" />
     </td>
   </tr>
 </table>
