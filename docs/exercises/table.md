@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="/style.css">
 
-<table>
+<table class="wave-table">
   <tr>
     <th colspan="4">Categories of Sound Waves</th>
   </tr>
@@ -16,17 +16,16 @@
   </tr>
   <tr>
     <td>
-      <img src="sine_wave.png" alt="Sine Wave" width="150">
+      <img src="/assets/images/sine_wave.png" alt="Sine Wave" />
     </td>
     <td>
-      <img src="complex_periodic.png" alt="Complex Periodic Wave" width="150">
+      <img src="/assets/images/complex_periodic.png" alt="Complex Periodic Wave" />
     </td>
     <td>
-      <img src="white_noise.png" alt="White Noise" width="150">
+      <img src="/assets/images/white_noise.png" alt="White Noise" />
     </td>
     <td>
-      <img src="impulse_noise.png" alt="Impulse Noise" width="150">
+      <img src="/assets/images/impulse_noise.png" alt="Impulse Noise" />
     </td>
   </tr>
 </table>
-
