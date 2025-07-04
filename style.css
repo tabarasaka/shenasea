@@ -1,22 +1,16 @@
-.table-container {
-  overflow-x: auto;  /* Horizontal scroll for small screens */
-  margin: 1rem 0;
+.wave-table th, 
+.wave-table td {
+  text-align: center;  /* Center-align all cells */
+  vertical-align: middle; /* Optional: Center vertically */
 }
 
+/* Bonus: Improve spacing */
 .wave-table {
   width: 100%;
   border-collapse: collapse;
-  text-align: center;
 }
-
-.wave-table th, .wave-table td {
-  padding: 0.5rem;
+.wave-table th, 
+.wave-table td {
+  padding: 8px;  /* Add padding for better readability */
   border: 1px solid #ddd;
-}
-
-.wave-table img {
-  max-width: 150px;
-  height: auto;
-  display: block;
-  margin: 0 auto;
 }
