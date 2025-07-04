@@ -1,19 +1,21 @@
+.table-container {
+  overflow-x: auto;  /* Horizontal scroll for small screens */
+  margin: 1rem 0;
+}
+
 .wave-table {
   width: 100%;
   border-collapse: collapse;
-  table-layout: fixed; /* equal cell widths */
+  text-align: center;
 }
 
-.wave-table th,
-.wave-table td {
-  border: 1px solid #444;
-  text-align: center;
-  vertical-align: middle;
-  padding: 10px;
+.wave-table th, .wave-table td {
+  padding: 0.5rem;
+  border: 1px solid #ddd;
 }
 
 .wave-table img {
-  max-width: 100%;
+  max-width: 150px;
   height: auto;
   display: block;
   margin: 0 auto;
