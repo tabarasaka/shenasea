@@ -1,23 +1,20 @@
 .wave-table {
   width: 100%;
   border-collapse: collapse;
-  table-layout: fixed; /* Ensures equal cell width */
+  table-layout: fixed; /* equal cell widths */
 }
 
 .wave-table th,
 .wave-table td {
-  border: 1px solid #ddd;
-  text-align: center; /* Centers text in all cells */
+  border: 1px solid #444;
+  text-align: center;
+  vertical-align: middle;
   padding: 10px;
 }
 
 .wave-table img {
-  display: block;
-  margin: 0 auto;
   max-width: 100%;
   height: auto;
-}
-
-.wave-table th {
-  background-color: #f2f2f2;
+  display: block;
+  margin: 0 auto;
 }
