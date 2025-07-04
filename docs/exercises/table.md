@@ -2,30 +2,23 @@
 
 <table class="wave-table">
   <tr>
-    <th colspan="4">Categories of Sound Waves</th>
+    <th colspan="4">Wave Types</th>
   </tr>
   <tr>
-    <td colspan="2">Periodic Waves</td>
-    <td colspan="2">Aperiodic Waves</td>
+    <td colspan="2">Periodic</td>
+    <td colspan="2">Aperiodic</td>
   </tr>
   <tr>
-    <td>Sine Wave</td>
-    <td>Complex Periodic</td>
-    <td>White Noise</td>
-    <td>Impulse Noise</td>
+    <td>Sine</td>
+    <td>Complex</td>
+    <td>Noise</td>
+    <td>Pulse</td>
   </tr>
   <tr>
-    <td>
-      <img src="sine_wave.png" alt="Sine Wave" />
-    </td>
-    <td>
-      <img src="complex_periodic.png" alt="Complex Periodic Wave" />
-    </td>
-    <td>
-      <img src="white_noise.png" alt="White Noise" />
-    </td>
-    <td>
-      <img src="impulse_noise.png" alt="Impulse Noise" />
-    </td>
+    <td><img src="images/sine_wave.png" alt="Sine Wave"></td>
+    <td><img src="images/complex.png" alt="Complex Wave"></td>
+    <td><img src="images/noise.png" alt="Noise Wave"></td>
+    <td><img src="images/pulse.png" alt="Pulse Wave"></td>
   </tr>
 </table>
+
