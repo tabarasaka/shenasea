@@ -1,6 +1,6 @@
 # Wave Types Visualization
 
-```html
+
 <link rel="stylesheet" href="/style.css">  <!-- Ensure path is correct (e.g., /docs/style.css if in GitHub Pages) -->
 
 <div class="table-container">  <!-- Wrapper for responsiveness -->
