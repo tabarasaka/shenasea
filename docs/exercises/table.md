@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/style.css">
+
 <table>
   <tr>
     <th colspan="4">Header Spanning Full Width</th>
