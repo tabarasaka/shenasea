@@ -1,14 +1,23 @@
-table {
-  border-collapse: collapse;
+.wave-table {
   width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed; /* Ensures equal cell width */
 }
 
-th, td {
-  border: 1px solid #999;
-  padding: 1rem;
-  text-align: center;
+.wave-table th,
+.wave-table td {
+  border: 1px solid #ddd;
+  text-align: center; /* Centers text in all cells */
+  padding: 10px;
 }
 
-th {
-  background: #f0f0f0;
+.wave-table img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.wave-table th {
+  background-color: #f2f2f2;
 }
