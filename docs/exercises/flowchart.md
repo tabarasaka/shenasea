@@ -24,8 +24,8 @@ graph TD
 
     %% Waveform examples (aligned under terminal nodes)  
     subgraph Waveform Examples  
-        L["<img src='https://i.imgur.com/SINEWAVE.png' width='100'/>"]  
-        M["<img src='https://i.imgur.com/COMPLEX.png' width='100'/>"]  
-        N["<img src='https://i.imgur.com/NOISE.png' width='100'/>"]  
-        O["<img src='https://i.imgur.com/PULSE.png' width='100'/>"]  
+        L["<img src='sine_wave.png' width='100'/>"]  
+        M["<img src='sine_wave.png' width='100'/>"]  
+        N["<img src='sine_wave.png' width='100'/>"]  
+        O["<img src='sine_wave.png' width='100'/>"]  
     end  
