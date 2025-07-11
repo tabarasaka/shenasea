@@ -1,4 +1,3 @@
-```mermaid
 graph TD
     A[Sound Waves] --> B[Periodic]
     A --> C[Aperiodic]
@@ -12,17 +11,20 @@ graph TD
     G --> K[Pulse]
 
     %% Invisible alignment nodes
-    H -.-> L[Sine Wave]
-    I -.-> M[Multiple Sines]
-    J -.-> N[Noise Wave]
-    K -.-> O[Pulse Wave]
-    linkStyle 8,9,10,11 stroke-width:0px;  %% Hide connector lines
+    H -.-> L[" "]
+    I -.-> M[" "]
+    J -.-> N[" "]
+    K -.-> O[" "]
+    style L height:0px,width:0px
+    style M height:0px,width:0px
+    style N height:0px,width:0px
+    style O height:0px,width:0px
+    linkStyle 8,9,10,11 stroke-width:0px
 
     %% Waveform examples (aligned under terminal nodes)
     subgraph Waveform Examples
-        direction LR
-        L["<img src='sine-wave.png' width='100'/>"] 
-        M["<img src='complex-wave.png' width='100'/>"]
-        N["<img src='noise-wave.png' width='100'/>"]
-        O["<img src='pulse-wave.png' width='100'/>"]
+        L["<img src='https://i.imgur.com/SINEWAVE.png' width='100'/>"]
+        M["<img src='https://i.imgur.com/COMPLEX.png' width='100'/>"]
+        N["<img src='https://i.imgur.com/NOISE.png' width='100'/>"]
+        O["<img src='https://i.imgur.com/PULSE.png' width='100'/>"]
     end
